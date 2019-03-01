@@ -1,6 +1,6 @@
 # Framework.IO
 #### Framework Data base library
-It is a .NET Core/Standard library that provides abstract methods to be use by the implementation classes based on an specific database
+It is a .NET Core/Standard library that provides helpfull IO methods and extensions methods as well
 
 Technologies
 - [x] .NET Core and .NET Standard
