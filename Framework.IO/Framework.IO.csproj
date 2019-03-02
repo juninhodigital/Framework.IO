@@ -9,7 +9,7 @@
     <PackageLicenseUrl>https://github.com/juninhodigital/Framework.IO/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/juninhodigital/Framework.IO</PackageProjectUrl>
     <RepositoryUrl>https://github.com/juninhodigital/Framework.IO</RepositoryUrl>
-    <PackageIconUrl>https://github.com/juninhodigital/Framework.Core/blob/master/Icons/FS_IconSmall.png?</PackageIconUrl>
+    <PackageIconUrl>https://github.com/juninhodigital/Framework.Core/blob/master/Icons/FS_IconSmall.png?raw=true</PackageIconUrl>
     <RepositoryType>Github</RepositoryType>
     <PackageTags>Extension Methods, Library, Helper, IO</PackageTags>
     <NeutralLanguage>English (United States)</NeutralLanguage>
