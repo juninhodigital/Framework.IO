@@ -2,6 +2,21 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Jose Carlos de Jesus Junior</Authors>
+    <Description>It is a .NET Core/Standard library that provides helpfull IO methods and extensions methods as well</Description>
+    <Copyright>Copyright 2018</Copyright>
+    <PackageLicenseUrl>https://github.com/juninhodigital/Framework.IO/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/juninhodigital/Framework.IO</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/juninhodigital/Framework.IO</RepositoryUrl>
+    <PackageIconUrl>https://github.com/juninhodigital/Framework.Core/blob/master/Icons/FS_IconSmall.png?</PackageIconUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>Extension Methods, Library, Helper, IO</PackageTags>
+    <NeutralLanguage>English (United States)</NeutralLanguage>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>true</Optimize>
   </PropertyGroup>
 
 </Project>
